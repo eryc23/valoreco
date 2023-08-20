@@ -47,7 +47,7 @@ export default function Testimonials() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Economia Financeira</h4>
-              <p className="text-gray-600 text-center">Reduza custos ao adotar práticas sustentáveis de gerenciamento de resíduos, economizando em descarte e materiais.</p>
+              <p className="text-gray-600 text-center">Submissão de projetos em gestão de resíduos para abatimento no imposto de renda.</p>
             </div>
 
             {/* 2nd item */}
